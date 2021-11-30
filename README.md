@@ -1,2 +1,2 @@
 # melancholic-mood
-Bash script shell ile; kısa bir "seviyor, sevmiyor" serüveni (CLI).
+Bash shell script ile; kısa bir "seviyor, sevmiyor" serüveni (CLI).
